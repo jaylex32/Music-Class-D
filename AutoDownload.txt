@@ -1,0 +1,5 @@
+./d-fi -q flac -o "/content/drive/My Drive/Downloads/{ART_NAME}/{ART_NAME} - {ALB_TITLE}/{ART_NAME} - {SNG_TITLE}" -d -i "MPlaylist.txt"
+
+
+
+

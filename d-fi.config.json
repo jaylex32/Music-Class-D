@@ -1,0 +1,23 @@
+{
+  "concurrency": 4,
+  "saveLayout": {
+    "track": "Music/{ART_NAME}/{ART_NAME} - {ALB_TITLE}/{ART_NAME} - {SNG_TITLE}",
+    "album": "Music/{ART_NAME}/{ART_NAME} - {ALB_TITLE}/{ART_NAME} - {SNG_TITLE}",
+    "artist": "Music/{ART_NAME}/{ART_NAME} - {ALB_TITLE}/{ART_NAME} - {SNG_TITLE}",
+    "playlist": "Playlist/{TITLE}/{SNG_TITLE}"
+  },
+  "playlist": {
+    "resolveFullPath": true
+  },
+  "trackNumber": false,
+  "fallbackTrack": true,
+  "fallbackQuality": true,
+  "coverSize": {
+    "128": 500,
+    "320": 500,
+    "flac": 1000
+  },
+  "cookies": {
+    "arl": "19354130addeaa6de757d6608a02f6a041b601078f4a32d646d0e16cffab024094a38c853722f6fe2c2becc7060a14e9acf3603592c705bd67fe26bb445fb64f7fac359df4b1345dd5dec96d993f26f9fe3a3e4337901d14af2289ab1e3d01d2"
+  }
+}
