@@ -1,3 +1,9 @@
+::Trap Land           
+https://open.spotify.com/playlist/37i9dQZF1DXde9tuMHuIsj
+::Baila Reggaeton     
+https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF
+::RapCaviar           
+https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd
 ::Reggaeton Fresco
 https://www.deezer.com/playlist/1227811991
 ::Salsa Nation
@@ -29,9 +35,7 @@ https://open.spotify.com/playlist/37i9dQZF1DWZQaaqNMbbXa
 ::EDM Pop             
 https://www.deezer.com/playlist/1950512362 
 ::¡Viva Latino!       
-https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva 
-::Baila Reggaeton     
-https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF 
+https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva  
 ::Exitos USA          
 https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6 
 ::Hot Rhythmic        
@@ -42,16 +46,12 @@ https://open.spotify.com/playlist/37i9dQZF1DWZdsS73T1ogG
 https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk 
 ::Today's Top Hits    
 https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M 
-::Trap Land           
-https://open.spotify.com/playlist/37i9dQZF1DXde9tuMHuIsj 
 ::Trap Mojito         
 https://open.spotify.com/playlist/37i9dQZF1DX1OIMC8iDi74 
 ::Puro Perreo         
 https://open.spotify.com/playlist/37i9dQZF1DWX5ZOsG2Ogi1 
 ::Reggaeton Classics  
 https://open.spotify.com/playlist/37i9dQZF1DX8SfyqmSFDwe 
-::RapCaviar           
-https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd 
 ::New Music Friday    
 https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk 
 ::Dance Party         
