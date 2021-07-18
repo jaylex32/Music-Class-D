@@ -1,5 +1,5 @@
 {
-  "concurrency": 2,
+  "concurrency": 4,
   "saveLayout": {
     "track": "Music/{ART_NAME}/{ART_NAME} - {ALB_TITLE}/{ART_NAME} - {SNG_TITLE}",
     "album": "Music/{ALB_TITLE}/{SNG_TITLE}",
@@ -7,7 +7,7 @@
     "playlist": "Playlist/{TITLE}/{SNG_TITLE}"
   },
   "playlist": {
-    "resolveFullPath": true
+    "resolveFullPath": false
   },
   "trackNumber": false,
   "fallbackTrack": true,
