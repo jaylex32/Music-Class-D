@@ -7,7 +7,7 @@
     "playlist": "Playlist/{TITLE}/{SNG_TITLE}"
   },
   "playlist": {
-    "resolveFullPath": false,
+    "resolveFullPath": false
   },
   "trackNumber": false,
   "fallbackTrack": true,
