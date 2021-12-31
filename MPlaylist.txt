@@ -1,6 +1,7 @@
 ::Baila Reggaeton     
 https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF 
-
+::Trap Land
+https://open.spotify.com/playlist/37i9dQZF1DXde9tuMHuIsj
 ::Lo-Fi Beats			
 https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn
 ::Deep Focus			
@@ -19,3 +20,9 @@ https://www.deezer.com/en/playlist/178699142
 https://www.deezer.com/en/playlist/3803398766
 ::Latin Classics
 https://www.deezer.com/en/playlist/5104249748
+::New Urbano::
+https://open.spotify.com/playlist/37i9dQZF1DWZdsS73T1ogG
+::Viva Latino
+https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva
+::Future Hits
+https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el
